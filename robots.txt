@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinovinyl-online.com/
+Sitemap: https://casinovinyl-online.com/sitemap.xml

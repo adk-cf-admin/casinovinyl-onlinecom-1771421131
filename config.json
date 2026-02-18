@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FFF9EF",
+            "lang-select-color": "#222829",
+            "bg-light": "#FAD99C",
+            "welcome-bonus-bg": "#FFF9EF",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#FFEECD",
+            "text": "#222829",
+            "text-black": "#222829",
+            "table-head": "#8F3DE0",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#EA5175",
+            "yellow": "#8F3DE0",
+            "yellow-button": "#A0EE23",
+            "button-text": "#ffffff",
+            "main-button-text": "#222829",
+            "border-color": "#efefdc",
+            "casino-cards": "#FAD99C",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#FAD99C",
+            "faq-label": "#FAD99C",
+            "bg-footer": "#2C2C2C",
+            "copyright": "#e7e7d5",
+            "starColor": "#8F3DE0",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3244"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3249",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Vinyl Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3248",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Vinyl Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Vinyl Casino",
+                    "title": "Vinyl Casino: 100% up to €500 + 200 Free Spins, Tournaments & VIP Rewards",
+                    "description": "Welcome to Vinyl Casino with thousands of games, live dealer tables, jackpots, and ongoing promos. Claim the 100% up to €500 + 200 free spins welcome package, join tournaments, and unlock cashback, reload deals, and bonus shop rewards.",
+                    "canonical": "casinovinyl-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3250",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinovinyl-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3251"
+                },
+                "hero": {
+                    "title": "Vinyl Casino — Slots, Live Casino, Jackpots & Daily Bonuses",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3252",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3253",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "100% bonus up to €500 + 200 free spins",
+                        "Daily tournaments with slot prizes and leaderboards",
+                        "Thousands of slots with big multipliers and features",
+                        "Live casino with dealers: roulette, blackjack, baccarat",
+                        "Jackpots and Drops & Wins prize campaigns",
+                        "Fast deposits: cards, e‑wallets, crypto options",
+                        "VIP tiers, bonus shop, coin‑to‑rewards exchange"
+                    ],
+                    "advantagesAfterText": "We deliver a stylish retro experience built for smooth play on any device, with strong bonuses and ongoing events. Our platform combines a deep game catalogue, easy navigation, and frequent promos that keep every session exciting and rewarding.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Vinyl Сasino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3255",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Vinyl Сasino App",
+                    "mobileGooglePlayImageTitle": "Vinyl Сasino App",
+                    "mobileIosImageTitle": "Vinyl Сasino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "Vinyl Сasino: your comfort — rules, security, support",
+                        "description1": "We stand out with a distinctive Vinyl vibe, nonstop game events, and flexible rewards for active play. We focus on entertainment-first promos and clear ways to unlock more value from every session.\n",
+                        "items": [
+                            "Up to €500 + 200 spins",
+                            "Weekly cashback up to 15%",
+                            "Tournaments with prize pools"
+                        ],
+                        "description2": "We are Vinyl Casino, and everything we do is built around fun gameplay, atmosphere, and rewarding moments. We bring together thousands of titles so you can jump straight into your favourite slots, jackpots, and live tables without hassle. Our retro music-inspired concept sets the mood from the first click and keeps the experience upbeat throughout your session. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3256",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We support smooth play on mobile and desktop, so you can enjoy the platform anywhere, anytime. For new players, we offer a welcome package that combines a deposit bonus with free spins to kick-start your play. If you enjoy competition, we run regular tournaments with slot leaderboards and prizes where consistency and activity matter. We add special mechanics and themed promos across the week to unlock extra winning potential. For live-action fans, we host dealer tables that deliver authentic pace, interaction, and familiar rules. Our reward ecosystem includes coins and a bonus shop so you can turn your activity into practical perks. We also grow our VIP program with tiered benefits designed to make ongoing play feel more valuable. Banking is kept flexible with popular payment solutions, including crypto options, so deposits and withdrawals stay convenient. Our support team assists with accounts, bonuses, and transactions so you can get answers quickly and get back to playing. We refresh the game library often and introduce new releases to keep things exciting. Seasonal campaigns and themed activities add variety to your routine and open more chances to grab extra prizes. We promote responsible play with control tools that help keep entertainment comfortable. In short, Vinyl Casino blends style, selection, and a well-designed rewards system into one experience. We aim to make every session dynamic, clear in its rules, and packed with opportunities.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Vinyl Сasino: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting Rules and Comfortable Play at Vinyl Casino\n<\/h3>\n\n<p>\nWe keep our rules simple so play stays enjoyable and safe for everyone. Access is for adults only, and identity checks may be required for withdrawals and certain limits. We expect respectful communication in chat and when speaking with our support team. We encourage playing only with your own entertainment budget and setting clear spending boundaries. We follow promo rules closely, so it’s important to stick to bonus conditions when you participate. We promote responsible play and support sensible limits on time and deposits. We may restrict access if we detect abuse, multi-accounting, or attempts to bypass rules. We ask you to use only your own payment methods to keep transactions smooth and secure. In higher security situations, we may request extra documents to protect your account. We also recommend reviewing each game’s rules and each promotion’s terms before joining.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge: 18+ only\n<\/li>\n            <li>• \nRegistration: one account per player\n\n<\/li>\n            <li>• \nVerification: identity checks for withdrawals and as requested\n\n<\/li>\n            <li>• \nPayments: use personal cards\/wallets only\n\n<\/li>\n\t    <li>• \nBonuses: follow bet limits and wagering timeframes\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMulti-accounting or using someone else’s details\n\n<\/li>\n            <li>• \nBypassing limits, restrictions, or promo rules\n\n<\/li>\n            <li>• \nAbuse, spam, or toxic behaviour in chat\n\n<\/li>\n            <li>• \nForbidden automation or unfair tools\n\n<\/li>\n\t    <li>• \nAny behaviour that compromises fair play\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSet deposit and session-time limits\n\n<\/li>\n            <li>• \nTake breaks and manage emotions\n\n<\/li>\n            <li>• \nDon’t chase losses\n\n<\/li>\n            <li>• \nUse self-limits or self-exclusion if needed\n\n<\/li>\n\t    <li>• \nContact support to set limits or pauses\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing and Data Security at Vinyl Casino\n<\/h3>\n\n<p>\nWe operate with a strong focus on transparency, data protection, and responsible access management. Our legal framework follows international online gaming regulation, and we provide licensing details within our official platform sections. As part of this framework, we apply standard KYC\/AML processes to protect players and reduce fraudulent activity. We keep operator details maintained and updated within our service information areas. It’s important that you always review the latest licence information directly inside our official pages before you start playing.\n\n<\/p>\n<br>\n\n\n<p>\nWe use modern connection security so your logins, payment details, and personal information are transmitted safely. The platform applies encrypted communication channels to reduce interception risks during sign-in and transactions. We also implement session-level protections to prevent unauthorised access, including suspicious login controls and limits on repeated sign-in attempts. Internally, we use data segmentation and strict role-based access controls. This supports strong confidentiality even during high traffic periods.\n\n<\/p>\n<br>\n<p>\nOur privacy policy explains what data we collect, why we collect it, and how long it may be retained. We use information only to provide the service, process transactions, perform identity checks, and improve your experience. We minimise data collection to what’s necessary and apply a “need-to-know” approach for staff and partners. If you want to understand what information is associated with your account, you can request details through support. We also provide marketing preference controls so you can manage communications.\n\n<\/p>\n<br>\n<p>\nPayment safety is a dedicated priority for us. We support recognised payment methods and follow internal risk controls for deposits and withdrawals. In some cases, the system may request proof of funds or additional documents to protect you from unauthorised activity. We monitor transactions to detect suspicious patterns and reduce processing errors. This approach supports stable payouts and protects player interests.\n\n<\/p>\n<br>\n<p>\nWe care about fair play and reliable game operation. Our games run on established industry solutions, with outcomes determined by each provider’s rules and the selected mode of play. We support responsible play tools such as limits and self-restrictions, making safety both technical and behavioural. If you notice anything unusual, we recommend contacting support immediately and pausing transactions as a precaution. Our goal is to make you feel confident about data protection and clear rules in every session.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVinyl Casino Support — Fast, Friendly, 24\/7 Help\n<\/h3>\n\n<p>\nWe designed our support to keep answers quick and the process simple. Most questions can be solved in live chat while you’re playing, without leaving the page. We assist with registration, verification, bonuses, payments, account settings, and technical enquiries. For more complex cases, email support is ideal because you can attach documents and receive detailed guidance. Phone support is used for urgent matters where speed is essential. We focus on service quality: clear explanations, step-by-step actions, and practical solutions. Our tone stays professional and friendly so communication feels comfortable. When you reach out, we aim to gather the right details quickly and resolve issues on the first contact. We offer multilingual assistance to make it easier to explain your request. We also maintain helpful guides so you can find common answers instantly. Our goal is to save your time and get you back to playing sooner.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: real-time help with fast replies\n\n<\/li>\n            <li>• \nEmail: best for documents and detailed requests\n\n<\/li>\n            <li>• \nPhone: for urgent support and quick assistance\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse time and service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: usually within minutes\n\n<\/li>\n            <li>• \nEmail: detailed replies in queue order\n\n<\/li>\n            <li>• \nPhone: quick contact when needed\n\n<\/li>\n            <li>• \nApproach: clear steps, solution-first support\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMultilingual support for key topics\n\n<\/li>\n            <li>• \nYou can set your preferred language in chat\n\n<\/li>\n            <li>• \nConsistent quality across all channels\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Vinyl Сasino",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nVinyl Casino VIP Program — Tiers, Perks, and Personal Rewards\n<\/h3>\n<p>\nOur loyalty program is built for players who enjoy regular play and want stronger benefits as they progress. You earn points and coins through real-money activity, then redeem them in the bonus shop. We keep progression clear: the more you play, the faster you unlock higher-level privileges. VIP tiers bring extra rewards, faster accumulation, and access to exclusive promos. We designed the system so progress feels consistent, not occasional. VIP members also receive personalised offers and boosted rewards during campaigns. We tailor rewards to play styles, including free spins, cashback, and event gifts. A key feature is the bonus shop, where you choose your reward instead of waiting for random drops. Conditions stay straightforward, with transparent earning and tier maintenance tied to activity. We also support VIP comfort through priority service and a more personal support approach. Our goal is to make loyalty feel like real value every time you log in.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to join\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAutomatically enabled after account creation\n\n<\/li>\n            <li>• \nPoints earned from real-game wagering\n\n<\/li>\n            <li>• \nCoins used to redeem rewards in the bonus shop\n\n<\/li>\n            <li>• \nVIP tiers grow with activity and verified progress\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBronze: starting tier after sign-up and first wagering\n\n<\/li>\n            <li>• \nSilver: steady play and regular sessions\n\n<\/li>\n            <li>• \nGold: higher activity and event participation\n\n<\/li>\n            <li>• \nPlatinum: strong volume and consistent progress\n\n<\/li>\n\t    <li>• \nDiamond: top tier with expanded privileges\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRewards and perks \n<\/h4>\n\n <ul>\n            <li>• \nVIP cashback: up to 15% via weekly cashback mechanics\n\n<\/li>\n            <li>• \nVIP personalised offers: tailored packs, including reload bonuses up to €700\n\n<\/li>\n            <li>• \nBonus shop: redeem coins for free spins and bonus credits\n\n<\/li>\n            <li>• \nExclusive tournaments: access to selected leaderboards and prizes\n\n<\/li>\n\t    <li>• \nPriority support: faster handling for VIP members\n\n<\/li>\n\t    <li>• \nEvent gifts: themed bonuses and promo bundles across the campaign calendar\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVinyl Casino Bonuses and Game Promos — Deals, Tournaments, and Seasonal Events\n<\/h3>\n\n<p>\nWe keep things exciting with nonstop promotions that boost the fun across slots, live tables, and jackpots. To start strong, we offer a welcome package that adds real value and gives you a solid shot at a hot free-spins run. Throughout the week, you can access cashback-style offers that keep play comfortable and return value based on activity. We also run reload deals so your next deposits can unlock extra bonus credit or free spins. Slot tournaments are a regular feature, with leaderboards that reward the most active competitors. For players chasing bigger moments, our jackpots section and Drops & Wins-style campaigns add extra prize potential beyond standard results. We often run mission-style promos where simple in-game tasks unlock bonus rewards. Seasonal events introduce themed weeks with exclusive draws and added excitement. Promos stay flexible so you can choose what fits your session: spins, deposit boosts, or cashback. We also feature interactive mechanics that make progress feel tangible. Live play can include its own dedicated offers, rewarding table activity. We keep activation simple and steps clear so you can claim promos fast. Many offers are available directly in the Promotions section—choose, activate, and play. Our goal is to give you more ways to win and more reasons to explore new titles. The more you join events, the more bonus opportunities and promo combos you unlock.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromos and bonuses\n<\/h4>\n\n <ul>\n            <li>• \nWelcome package: 100% up to €500 + 200 Free Spins + 1 Bonus Crab — a powerful start for slots and early sessions\n\n<\/li>\n            <li>• \nWeekly Cashback: up to 15% (for example, up to €3000 within campaign terms) — value returned at period end\n\n<\/li>\n            <li>• \nWeekly Reload: up to 100%\/50% (for example, up to €700) + 50 Free Spins — keeps regular play boosted\n\n<\/li>\n            <li>• \nLive Cashback Welcome: up to 10% up to $200 — a dedicated mechanic for live-table fans\n\n<\/li>\n\t    <li>• \nDrops & Wins \/ jackpot campaigns: extra prize chances on top of base outcomes\n\n<\/li>\n\t    <li>• \nSlot tournaments: leaderboards that reward points\/wagering in selected games\n\n<\/li>\n\t    <li>• \nSeasonal events: themed weeks, holiday draws, boosted rewards\n\n<\/li>\n\t    <li>• \nMissions and challenges: complete goals to unlock bonus rewards\n\n<\/li>\n\t    <li>• \nPromo combos: bundles that mix bonus credit + free spins for extended play\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVinyl Casino Games — Slots, Live Tables, Jackpots, and Instant Play\n<\/h3>\n\n<p>\nWe bring you a wide range of games so you can pick the style that matches your mood—from fast slots to live dealer tables. Our slots lobby includes classic and modern video slots packed with bonus features, free spins, and progressive-style mechanics. If you prefer quick results, our instant games deliver fast-paced action with simple rules. For a true casino feel, our live section features roulette, blackjack, baccarat, and engaging game shows. We also support jackpots and curated collections to help you chase bigger moments. The lobby includes filters by popularity, new releases, and providers so you can find titles in seconds. We highlight top picks and trending games to make discovery effortless. Favourites and search tools help you jump straight back into what you love. We update the library regularly so there’s always something fresh to try. The platform works equally well for short sessions or longer play. We also run slot tournaments on selected titles so you can combine entertainment with competitive prize chasing.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain game categories\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: video slots, classics, themed series, features and bonus rounds\n\n<\/li>\n            <li>• \nJackpots: progressive and fixed jackpot titles, curated selections\n\n<\/li>\n            <li>• \nLive Casino: roulette, blackjack, baccarat, poker variants, game shows\n\n<\/li>\n            <li>• \nTable Games: RNG roulette\/blackjack\/baccarat with varied limits\n\n<\/li>\n\t    <li>• \nInstant Games: fast formats for quick sessions\n\n<\/li>\n\t    <li>• \nTournament titles: slots featured in leaderboards and races\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Vinyl Casino\n<\/h3>\n\n<p> \nWe support flexible betting limits so both casual and high-intensity players can feel comfortable. Exact limits depend on the game, provider, and selected table, and you’ll always see the precise range inside the game interface before placing a bet. Some bonus modes and promotions may apply special maximum-bet rules, which are clearly stated in promo terms. Below is a practical overview of typical ranges across key categories.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #222829;\">\n  <thead>\n    <tr style=\"background-color: #8F3DE0;\">\n      <th style=\"border: 1px solid #222829; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #222829; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #222829; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>Slots (video slots)<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">100<\/td>\n    <\/tr>\n\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>Slots (high-limit titles)<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">200<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>RNG Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">500<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>RNG Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">1,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>RNG Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">1,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>Live Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">5,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>Live Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">5,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>Live Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>Live Game Shows<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">1,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>Jackpots (slots)<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">100<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #222829; padding: 10px;\"><strong>Instant games<\/strong><\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #222829; padding: 10px;\">500<\/td>\n    <\/tr>\n\n    \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawals at Vinyl Casino — Methods, Speed, and Limits\n<\/h3>\n\n<p>\nWe keep withdrawals clear and convenient so you can access your winnings smoothly. In your account, you choose a method, enter an amount, and confirm the request—then the system guides you through the steps. Payout speed depends on the method, your verification status, and our internal security review designed to protect your funds. We support popular payment solutions, including cards, e-wallets, and crypto options, so you can choose what fits best. Your request status is visible in transaction history for full clarity. Security rules matter: when your account details match your payment method, payouts tend to process more smoothly. For a first withdrawal or higher amounts, we may request identity documents to secure your account. We recommend completing verification early to make future withdrawals even more comfortable. We also apply withdrawal limits to keep financial operations transparent and risk-controlled. Limits can vary by method and account level, and exact values are shown in your cashier. Our goal is predictability: clear steps, visible progress, and flexible options.\n\n<\/p>\n<br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank transfer (where available)\n\n<\/li>\n            <li>• \nBank cards (if supported for withdrawals)\n\n<\/li>\n            <li>• \nE-wallets (depending on provider availability)\n\n<\/li>\n            <li>• \nCryptocurrencies: a fast and convenient option for many players\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout speed and processing times\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCrypto: often faster after approvals and confirmations\n\n<\/li>\n            <li>• \nWallets: typically quick once approved\n\n<\/li>\n            <li>• \nBank methods: may take longer due to banking procedures\n\n<\/li>\n            <li>• \nGeneral processing guide: up to 1–5 business days, depending on method and checks\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: varies by method and is shown in the cashier\n\n<\/li>\n            <li>• \nDaily\/transaction limits: set by method and security rules\n\n<\/li>\n            <li>• \nMonthly limit: in some scenarios, a guide of up to €7,000 applies\n\n<\/li>\n            <li>• \nVIP perks: expanded conditions may be available for active players\n\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "When is identity verification required?",
+                            "answer": "Most commonly before your first withdrawal or when security checks require it. We recommend verifying early for smoother payouts.\n\n\n"
+                        },
+                        {
+                            "title": "How do I know if a slot counts for a tournament?",
+                            "answer": "Tournament pages show eligible games and scoring rules so you know exactly where your play contributes.\n\n\n"
+                        },
+                        {
+                            "title": "Why did my deposit go through but the balance didn’t update instantly?",
+                            "answer": "Sometimes a payment provider confirmation is required. Updates are usually quick, and support can check the status if there’s a delay.\n\n\n"
+                        },
+                        {
+                            "title": "How do I set limits and play controls?",
+                            "answer": "You can manage time and financial controls in settings. If you want help, support can guide you through comfortable limit options.\n\n\n"
+                        },
+                        {
+                            "title": "How do I track jackpots and campaign outcomes?",
+                            "answer": "Jackpot and promo sections display current mechanics and conditions, and you can follow progress and statuses within the relevant activity screens.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
